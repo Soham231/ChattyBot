@@ -65,8 +65,7 @@ public class ChatBot {
         }
 
         static void end() {
-            System.out.println("Congratulations, have a nice day!");
+            System.out.println("Congratulations, have a wonderful day!");
         }
 
 }
-
